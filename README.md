@@ -2,7 +2,6 @@
 
 ### 📄 `README.md`
 
-```markdown
 # Verilog Stack Module
 
 This repository contains a simple and configurable **stack module written in Verilog**, implementing standard LIFO (Last-In-First-Out) behavior with a ready-to-use testbench.
